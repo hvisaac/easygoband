@@ -12,7 +12,13 @@
 https://github.com/hvisaac/easygoband.git
 ```
 
-- Install NodeJS
+- Install NodeJS <href> https://nodejs.org/en/
+
+- Install node modules
+
+```
+npm install
+```
 
 > **DATABASE**
 
