@@ -9,7 +9,7 @@
 - Clone the repository
 
 ```
-https://github.com/hvisaac/easygoband.git
+git clone https://github.com/hvisaac/easygoband.git
 ```
 
 - Install NodeJS <href> https://nodejs.org/en/
