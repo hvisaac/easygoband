@@ -1,4 +1,32 @@
 # EASYGOBAND TEST ( ZOMBIE APOCALIPSIS API )
+ 
+## ENVIRONMENT DATA
+
+---
+
+> **INSTALL**
+
+- Clone the repository
+
+```
+https://github.com/hvisaac/easygoband.git
+```
+
+- Install NodeJS
+
+> **DATABASE**
+
+- MongoDB
+
+> **VARIABLES**
+
+```
+MongoDB_HOST=localhost
+```
+
+```
+MongoDB_DATABASE=EASYGOBAND
+```
 
 ## HOST
 
